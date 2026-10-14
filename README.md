@@ -1,0 +1,1 @@
+This is for the initial setup of the project on the course Financial Econometrics WS 26/27.

@@ -1,5 +1,12 @@
 # ignore everything in the root
-/*
+# /*
+
+# ignore the data folder
+data/
+
+# ignore the environment file
+.env
+.env*
 
 # except these
 !/modules/

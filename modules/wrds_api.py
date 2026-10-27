@@ -6,11 +6,11 @@ import datetime as dt
 # get wrds info once at the beginning on every day
 CURRENT_DATE = dt.datetime.now().strftime("%Y-%m-%d")
 print(f"Querying WRDS data for {CURRENT_DATE}")
-
+``
 load_dotenv()
 
-wrds_username = os.getenv("fengyuanliu")
-wrds_password = os.getenv("Jz&SSie#ezeP4Rb")
+# wrds_username = os.getenv("")
+# wrds_password = os.getenv("")
 
 
 def initialize_wrds_connection():

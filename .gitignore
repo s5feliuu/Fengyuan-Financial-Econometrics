@@ -2,7 +2,7 @@
 /*
 
 # except these
-!/modules/
+# !/modules/
 !/README.md
 !/.gitignore
 

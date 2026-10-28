@@ -12,7 +12,3 @@ data/
 # !/modules/
 !/README.md
 !/.gitignore
-
-# inside modules, still ignore generated files
-__pycache__/
-.ipynb_checkpoints/

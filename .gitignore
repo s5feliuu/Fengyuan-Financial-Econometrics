@@ -9,5 +9,6 @@ data/
 .env*
 
 # except these
+# !/modules/
 !/README.md
 !/.gitignore
